@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DockerExtract": {
+      "commandName": "Project",
+      "commandLineArgs": "-i D:\\docker-extract-test\\test\\u\\addertest.tar -f main.rs --ignore-paths extract"
+    }
+  }
+}
